@@ -1,0 +1,12 @@
+C:\Users\Sulu\source\repos\Coffe - Arayüz\Coffe - Arayüz\bin\Debug\Coffe - Arayüz.exe.config
+C:\Users\Sulu\source\repos\Coffe - Arayüz\Coffe - Arayüz\bin\Debug\Coffe - Arayüz.exe
+C:\Users\Sulu\source\repos\Coffe - Arayüz\Coffe - Arayüz\bin\Debug\Coffe - Arayüz.pdb
+C:\Users\Sulu\source\repos\Coffe - Arayüz\Coffe - Arayüz\obj\Debug\Coffe - Arayüz.csproj.AssemblyReference.cache
+C:\Users\Sulu\source\repos\Coffe - Arayüz\Coffe - Arayüz\obj\Debug\Coffe - Arayüz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sulu\source\repos\Coffe - Arayüz\Coffe - Arayüz\obj\Debug\Coffe___Arayüz.Form1.resources
+C:\Users\Sulu\source\repos\Coffe - Arayüz\Coffe - Arayüz\obj\Debug\Coffe___Arayüz.Properties.Resources.resources
+C:\Users\Sulu\source\repos\Coffe - Arayüz\Coffe - Arayüz\obj\Debug\Coffe - Arayüz.csproj.GenerateResource.cache
+C:\Users\Sulu\source\repos\Coffe - Arayüz\Coffe - Arayüz\obj\Debug\Coffe - Arayüz.csproj.CoreCompileInputs.cache
+C:\Users\Sulu\source\repos\Coffe - Arayüz\Coffe - Arayüz\obj\Debug\Coffe - Arayüz.exe
+C:\Users\Sulu\source\repos\Coffe - Arayüz\Coffe - Arayüz\obj\Debug\Coffe - Arayüz.pdb
+C:\Users\Sulu\source\repos\Coffe - Arayüz\Coffe - Arayüz\obj\Debug\Coffe___Arayüz.Form2.resources
